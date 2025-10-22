@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Test262Runner All": {
+      "commandName": "Project"
+    },
+    "Test262Runner Ask": {
+      "commandName": "Project",
+      "commandLineArgs": "--ask"
+    }
+
+  }
+}
